@@ -24,7 +24,7 @@ After opened the page, you can observe 3 parts :
 - the graphic representation of the distribution of points (#2 = bottom left)
 - the transformed representation of all grid points in given layer. (#3 = bottom right)
 
-![alt tag](/images/capture1.png)
+![alt tag](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture1.png)
 
 ```javascript
 
