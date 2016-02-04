@@ -1,8 +1,8 @@
 
 # ConvNetJS for Deep Learning at Holberton School
 
-ConvNetJS is a Javascript implementation of Neural networks, together with nice browser-based demos.
-ConvNetJs is developed by Karpathy.  Please find the link to the original project : https://github.com/karpathy/convnetjs
+ConvNetJS is a Javascript implementation of Neural Networks, together with nice browser-based demos.
+ConvNetJs was originally developed by Andrej Karpathy.  Link to the original project : https://github.com/karpathy/convnetjs
 
 The original version of ConvNetJs currently supports:
 

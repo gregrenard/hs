@@ -5,15 +5,15 @@ https://www.holbertonschool.com/
 
 ## Introduction
 
-The goals of this exercices are 
-- to play with your first Neural Networks based on the famous Javascript implementation of Neural networks by Andrej Karpathy : "ConvNetJS".
-- to develop your intuition about Neural Network and observe how hyper-paramaters impact the learning curve.
+The goals of these exercices are 
+- to play with your first Neural Networks based on the Javascript implementation of Neural networks by Andrej Karpathy : "ConvNetJS".
+- to develop your intuition about Neural Network and observe how their structure and hyper-paramaters impact the learning curve.
 
 ConvNetJS is a Javascript library for training Deep Learning models (mainly Neural Networks) entirely in your browser. 
-Open a tab and you're training. No software requirements, no compilers, no installations, no GPUs, no sweat
+Open a tab and you're training. No software requirements, no compilers, no installation, no GPUs, no sweat!
 
-ConvNetJS is a Javascript implementation of Neural networks, together with nice browser-based demos.
-ConvNetJs is developed by Karpathy.  The original project : https://github.com/karpathy/convnetjs
+It comes with nice browser-based demos, and was originally developed by Andrej Karpathy at [Stanford](http://cs.stanford.edu/people/karpathy/convnetjs/).  
+The original project is at https://github.com/karpathy/convnetjs
 
 ## Demos Guidelines & RoadMap
 
