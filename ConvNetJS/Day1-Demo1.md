@@ -1,4 +1,4 @@
-# Deep Learning Introduction with ConvNetJS at Hoberton School
+# Deep Learning Introduction with ConvNetJS at Holberton School
 
 Deep Learning Day 1 by Louis Monier and Gregory Renard.
 https://www.holbertonschool.com/
@@ -12,7 +12,6 @@ We recommend you use Chrome as your browser.
 
 ## Task 1 : Observation
 
-![Start](/images/capture1.png)
 ![Start](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture1.png)
 
 As you open the page, the Network start to train itself.
@@ -71,7 +70,6 @@ You can observe the classification's evolution.
 
 After you add points in the distribution, you can change the distribution shape by clicking on the buttons : simple, circle, spiral, ring, check, spots or target.
 
-![More Neurons](/images/capture2.png)
 ![More Neurons](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture2.png)
 
 You can observe the difficulty of your current Network to identify the right classification model.  
@@ -94,7 +92,6 @@ layer_defs.push({type:'softmax', num_classes:2});
 
 You can observe the training of the Network seems producing a better model for some type of shapes as the 'Check'.
 
-![alt tag](/images/capture3.png)
 ![alt tag](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture3.png)
 
 
@@ -123,7 +120,6 @@ layer_defs.push({type:'softmax', num_classes:2});
 
 After replicated the whole line with "num_neurons:". Now you have a 2-layer network.
 
-![Add Layers](/images/capture4.png)
 ![Add Layers](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture4.png)
 
 **How quickly can it crack the "target"?**

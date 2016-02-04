@@ -1,4 +1,4 @@
-# Deep Learning Introduction with ConvNetJS at Hoberton School
+# Deep Learning Introduction with ConvNetJS at Holberton School
 
 Deep Learning Introduction by Louis Monier and Gregory Renard.
 https://www.holbertonschool.com/
@@ -14,3 +14,7 @@ Open a tab and you're training. No software requirements, no compilers, no insta
 
 ConvNetJS is a Javascript implementation of Neural networks, together with nice browser-based demos.
 ConvNetJs is developed by Karpathy.  The original project : https://github.com/karpathy/convnetjs
+
+## Demos Guidelines & RoadMap
+
+- Feb 5 2016 : [Day1-Demo1](https://github.com/gregrenard/hs/blob/master/ConvNetJS/Day1-Demo1.md)
